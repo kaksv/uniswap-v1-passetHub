@@ -17,5 +17,5 @@ We are using hardhat for smart contracts deployments. <br/>.
 [Use this link to follow the instructions on how to use hardhat with Passet hub.](https://github.com/polkadot-developers/hackathon-guide/blob/master/polkadot-hub-devs.md)
 
 ## Deployed Contracts.
-The KAKS ERC 20 Token address on PasetHub is ```0x3d3212874efB3E770597716d72518c9649FBDAA6```
+The KAKS ERC 20 Token address on PasetHub is ```0x3d3212874efB3E770597716d72518c9649FBDAA6``` <br/>
 The Exchange Smart Contract address deployed on the Passet Hub is: ```0xD5Cdc282BE2e7762Ce9f13684B9430910a38357e```
